@@ -1,4 +1,4 @@
-/**
+/*
  * @file MCU1.ino
  * @brief 智慧农业终端主控制器 - MCU1
  * @description 负责传感器数据采集、GDD计算、系统健康监控和设备控制
